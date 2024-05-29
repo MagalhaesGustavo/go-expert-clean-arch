@@ -35,4 +35,4 @@ Após subir o serviço, você poderá acessar as seguintes interfaces:
 
 ## Documentação da API REST
 
-A documentação das rotas do servidor HTTP está disponível no arquivo `./api/api.http`.
+A documentação das rotas do servidor HTTP está disponível no arquivo `./api/apis.http`.
